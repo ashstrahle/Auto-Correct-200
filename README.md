@@ -7,3 +7,5 @@ If a colleague with privileged access leaves their terminal unlocked - run this 
 The script is harmless and first backs up the current autocorrect file. It will not run if the backup file already exists.
 
 Revert by copying the autocorrect backup file back and restarting Outlook.
+
+Use responsibly and without malice.
