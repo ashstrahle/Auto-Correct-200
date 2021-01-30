@@ -1,4 +1,4 @@
-# Outlook-Auto-Correct-200
+# Outlook-AutoCorrect200
 
 A cheeky little script to teach administrators to lock their session. This script adds 200+ homophone autocorrect entries into Outlook. 
 
